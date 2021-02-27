@@ -5,5 +5,4 @@ ldesc: "say is a simple string key/value store for i18n or any other case where
 you want namespaced strings.
 "
 skip:
-test:
 homepage: https://github.com/Olivine-Labs/say/

@@ -5,4 +5,3 @@ ldesc: "say is a simple string key/value store for i18n or any other case where
 you want namespaced strings.
 "
 external-source: lua-say
-test:
